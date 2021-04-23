@@ -1,0 +1,9 @@
+flask
+flask_wtf
+wtforms
+wtforms.fields.html5
+wtforms.validators
+flask_login
+telebot
+random
+cloudipsp
